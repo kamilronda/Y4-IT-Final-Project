@@ -34,4 +34,4 @@ session_start();
 $DB_HOST = 'eu-cdbr-west-03.cleardb.net';
 $DB_USER = 'b8f435749b8567';
 $DB_PASS = '990bce58';
-$DB_NAME = 'closeapart';
+$DB_NAME = 'heroku_f4b2cc03e38a6f0';
