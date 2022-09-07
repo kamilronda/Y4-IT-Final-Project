@@ -31,7 +31,7 @@ $google_client->addScope('profile');
 session_start();
 
 // Localhost's DB
-$DB_HOST = 'localhost';
-$DB_USER = 'root';
-$DB_PASS = 'root';
+$DB_HOST = 'eu-cdbr-west-03.cleardb.net';
+$DB_USER = 'b8f435749b8567';
+$DB_PASS = '990bce58';
 $DB_NAME = 'closeapart';
